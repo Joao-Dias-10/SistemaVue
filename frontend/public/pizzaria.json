@@ -1,0 +1,47 @@
+{
+    "pedidos": [
+      {
+        "id": 1,
+        "nome": "João",
+        "telefone": "987654321",
+        "endereco": "Rua A, 123",
+        "tamanho": "grande",
+        "sabores": ["calabresa", "mussarela"],
+        "observacoes": "Sem cebola",
+        "data": "2023-06-30"
+      },
+      {
+        "id": 2,
+        "nome": "Maria",
+        "telefone": "123456789",
+        "endereco": "Av. B, 456",
+        "tamanho": "média",
+        "sabores": ["atum"],
+        "observacoes": "",
+        "data": "2023-06-29"
+      }
+    ],
+    "sabores": [
+      {
+        "id": 1,
+        "nome": "calabresa"
+      },
+      {
+        "id": 2,
+        "nome": "mussarela"
+      },
+      {
+        "id": 3,
+        "nome": "atum"
+      },
+      {
+        "id": 4,
+        "nome": "margherita"
+      },
+      {
+        "id": 5,
+        "nome": "portuguesa"
+      }
+    ]
+  }
+  

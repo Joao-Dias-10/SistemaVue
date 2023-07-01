@@ -1,0 +1,84 @@
+{
+  "pedidos": [
+    {
+      "id": 22,
+      "nome": "Jorge Silva ",
+      "telefone": "(75) 99999-9999",
+      "endereco": "Feira de Santana ",
+      "tamanho": "Grande",
+      "sabores": [
+        "calabresa",
+        "atum",
+        "margherita"
+      ],
+      "observacoes": "Sem cebola ",
+      "data": "2023-07-01"
+    },
+    {
+      "id": 159,
+      "nome": " José Pereira",
+      "telefone": "(75) 99999-9999",
+      "endereco": "Feira de Santana ",
+      "tamanho": "Grande",
+      "sabores": [
+        "mussarela",
+        "margherita",
+        "portuguesa"
+      ],
+      "observacoes": "Com muita cebola ",
+      "data": "2023-07-01"
+    },
+    {
+      "id": 534,
+      "nome": "João Augusto ",
+      "telefone": "(75) 99999-9999",
+      "endereco": "Feira de Santana ",
+      "tamanho": "Pequena",
+      "sabores": [
+        "mussarela",
+        "atum",
+        "calabresa"
+      ],
+      "observacoes": "...",
+      "data": "2023-07-01"
+    },
+    {
+      "id": 934,
+      "nome": "Augusto Ferreira ",
+      "telefone": "(75) 99999-9999",
+      "endereco": "Feira de Santana ",
+      "tamanho": "Média",
+      "sabores": [
+        "mussarela",
+        "margherita",
+        "atum"
+      ],
+      "observacoes": "Sem cebola ",
+      "data": "2023-07-01"
+    }
+  ],
+  "banco2": {
+    "sabores": [
+      {
+        "id": 1,
+        "nome": "calabresa"
+      },
+      {
+        "id": 2,
+        "nome": "mussarela"
+      },
+      {
+        "id": 3,
+        "nome": "atum"
+      },
+      {
+        "id": 4,
+        "nome": "margherita"
+      },
+      {
+        "id": 5,
+        "nome": "portuguesa"
+      }
+    ]
+  }
+}
